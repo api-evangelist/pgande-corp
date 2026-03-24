@@ -1,0 +1,7 @@
+aid: pgande-corp
+url: https://raw.githubusercontent.com/api-evangelist/pgande-corp/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.pgande-corp.com
