@@ -1,7 +1,11 @@
 aid: pgande-corp
-url: https://raw.githubusercontent.com/api-evangelist/pgande-corp/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pgande-corp/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.pgande-corp.com
+description: >-
+  PG&E Corporation is the parent company of Pacific Gas and Electric Company, an electric
+  and natural gas utility serving customers in northern and central California.
