@@ -4,6 +4,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/pgetech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pacificgasandelectric
   - type: Website
     url: https://www.pgecorp.com
 description: >-
