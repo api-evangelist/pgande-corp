@@ -1,7 +1,9 @@
 ---
 title: PG&E Corporation – Digital Transformation Strategies
 url: https://www.globaldata.com/store/report/pg-and-e-corporation-enterprise-tech-analysis/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PG&E Corp." press release artificial intelligence'
 position: 3
 source: serpapi-google

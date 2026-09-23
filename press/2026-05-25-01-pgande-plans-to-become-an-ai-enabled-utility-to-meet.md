@@ -1,7 +1,9 @@
 ---
 title: PG&E plans to become an 'AI-enabled utility' to meet ...
 url: https://dailyenergyinsider.com/featured/46074-pge-plans-to-become-an-ai-enabled-utility-to-meet-industrys-growing-energy-demands/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PG&E Corp." press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Wildfire Prevention Today and Tomorrow - PCG
 url: https://www.stocktitan.net/news/PCG/wildfire-prevention-today-and-tomorrow-pg-e-shares-2025-wildfire-coh9nkq7j143.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PG&E Corp." press release artificial intelligence'
 position: 2
 source: serpapi-google

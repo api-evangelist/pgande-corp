@@ -1,7 +1,9 @@
 ---
 title: Pacific Gas and Electric Company
 url: https://www.facebook.com/pacificgasandelectric/posts/on-the-frontlines-you-see-the-problem-before-it-becomes-one-were-using-hd-camera/1316449217184803/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PG&E Corp." press release artificial intelligence'
 position: 5
 source: serpapi-google
